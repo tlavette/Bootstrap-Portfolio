@@ -1,0 +1,18 @@
+body{
+    background:beige;
+}
+
+
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
+.navbar-brand {
+margin-left: 105px;
+
+}
+
+.jumbotron{
+    padding:10px;
+    background: grey;
+}
