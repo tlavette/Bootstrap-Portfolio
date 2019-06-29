@@ -18,6 +18,7 @@ Just this year my major accomplishments:
 
 ![FullStack](/assets/images/fullstack.png)   ![Amazon](/assets/images/aws.png) 
 
+![Cisco](/assets/images/ciscocertRS.png) ![Cisco](/assets/images/ciscoCertSec.png) ![Cisco](/assets/images/ciscoCertXR.png)
 
 I am interested in continuing this journey in the areas of DevOps/DevNet.
 
