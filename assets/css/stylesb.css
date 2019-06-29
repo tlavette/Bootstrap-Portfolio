@@ -1,0 +1,44 @@
+body{
+    background:beige;
+}
+.h2{
+    text-decoration: underline;
+    
+  }
+
+.navbar{
+    background: rgb(3,3,105);
+    color: white;
+}
+
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
+.navbar-brand {
+margin-left: 140px;
+
+}
+
+.jumbotron{
+    padding:0px;
+    margin-top: 120px;
+    background: lightgrey;
+}
+
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+
+  p {
+    margin-bottom: 20px;
+    padding: 20px;
+   
+  }
+ 
+  
