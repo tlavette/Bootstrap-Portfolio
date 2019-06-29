@@ -15,11 +15,9 @@ Just this year my major accomplishments:
     AWS Cloud Practioner
     Business Contracting
     FullStack Web Development and Scripting Language
+    
 
-![FullStack](/assets/images/fullstack.png)   
-![Amazon](/assets/images/aws.jpg) 
-
-![Cisco](/assets/images/ciscocertRS.png) ![Cisco](/assets/images/ciscoCertSec.png) 
+![FullStack](/assets/images/certImages.png)   
 
 I am interested in continuing this journey in the areas of DevOps/DevNet.
 
